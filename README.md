@@ -4,5 +4,5 @@ Autonomous wall following robot implementing PID control with two opposing later
 Coded for the BrickPi
 
 Demo videos: 
-https://youtu.be/za7rxRLsv-E
-https://youtu.be/9KfiWka3pQ0
+[Video 1] (https://youtu.be/za7rxRLsv-E)
+[Video 2] (https://youtu.be/9KfiWka3pQ0)
